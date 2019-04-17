@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1551644056 source:d:\cours\tg\sujetstp\tp2\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+
+1551643974 source:d:\cours\tg\sujetstp\tp2\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1551643975 d:\cours\tg\sujetstp\tp2\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1551643974 source:d:\cours\tg\sujetstp\tp2\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"graphe.h"
+
+1551643974 d:\cours\tg\sujetstp\tp2\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+
+1552852131 source:c:\users\wang david\desktop\tp2\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"graphe.h"
+
+1552840218 c:\users\wang david\desktop\tp2\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+
+1552845142 c:\users\wang david\desktop\tp2\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1552852580 source:c:\users\wang david\desktop\tp2\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+
+1552852073 source:c:\users\wang david\desktop\tp2\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1552852132 source:c:\users\wang david\desktop\tp2_version_finale\tp2_version_finale\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"graphe.h"
+
+1552840220 c:\users\wang david\desktop\tp2_version_finale\tp2_version_finale\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+
+1552845144 c:\users\wang david\desktop\tp2_version_finale\tp2_version_finale\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1552852074 source:c:\users\wang david\desktop\tp2_version_finale\tp2_version_finale\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1552853072 source:c:\users\wang david\desktop\tp2_version_finale\tp2_version_finale\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+
+1555333107 source:c:\users\wang david\documents\tp2_version_finale\tp2_version_finale\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"graphe.h"
+
+1555332669 c:\users\wang david\documents\tp2_version_finale\tp2_version_finale\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	"arete.h"
+
+1552848744 c:\users\wang david\documents\tp2_version_finale\tp2_version_finale\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1555331464 source:c:\users\wang david\documents\tp2_version_finale\tp2_version_finale\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+
+1552855674 source:c:\users\wang david\documents\tp2_version_finale\tp2_version_finale\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1555332732 source:c:\users\wang david\documents\tp2_version_finale\tp2_version_finale\tp2\arete.cpp
+	"arete.h"
+
+1555332951 c:\users\wang david\documents\tp2_version_finale\tp2_version_finale\tp2\arete.h
+	<string>
+	<iostream>
+
+1555492572 source:c:\users\cleme\desktop\git\tp2_version_finale (1)\tp2_version_finale\tp2_version_finale\tp2\graphe.cpp
+	<fstream>
+	<iostream>
+	"graphe.h"
+
+1555492572 c:\users\cleme\desktop\git\tp2_version_finale (1)\tp2_version_finale\tp2_version_finale\tp2\graphe.h
+	<string>
+	<unordered_map>
+	"sommet.h"
+	"arete.h"
+
+1555492572 c:\users\cleme\desktop\git\tp2_version_finale (1)\tp2_version_finale\tp2_version_finale\tp2\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1555332952 c:\users\cleme\desktop\git\tp2_version_finale (1)\tp2_version_finale\tp2_version_finale\tp2\arete.h
+	<string>
+	<iostream>
+
+1555492572 source:c:\users\cleme\desktop\git\tp2_version_finale (1)\tp2_version_finale\tp2_version_finale\tp2\main.cpp
+	<iostream>
+	"graphe.h"
+
+1555492572 source:c:\users\cleme\desktop\git\tp2_version_finale (1)\tp2_version_finale\tp2_version_finale\tp2\sommet.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<unordered_map>
+	<unordered_set>
+	"sommet.h"
+
+1555332734 source:c:\users\cleme\desktop\git\tp2_version_finale (1)\tp2_version_finale\tp2_version_finale\tp2\arete.cpp
+	"arete.h"
+
